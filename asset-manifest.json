@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/night_rises/static/css/main.bb42e6e0.css",
+    "main.js": "/night_rises/static/js/main.1ede18fd.js",
+    "static/js/787.855d930d.chunk.js": "/night_rises/static/js/787.855d930d.chunk.js",
+    "static/media/2.1.jpg": "/night_rises/static/media/2.1.4914cda8bd4acbbd293f.jpg",
+    "static/media/plan.jpg": "/night_rises/static/media/plan.42b76b183acd08e15238.jpg",
+    "static/media/office.jpg": "/night_rises/static/media/office.4ccdd1ced71e083f8ce0.jpg",
+    "static/media/final-2.svg": "/night_rises/static/media/final-2.ac18b6542eb0caaad860.svg",
+    "index.html": "/night_rises/index.html",
+    "main.bb42e6e0.css.map": "/night_rises/static/css/main.bb42e6e0.css.map",
+    "main.1ede18fd.js.map": "/night_rises/static/js/main.1ede18fd.js.map",
+    "787.855d930d.chunk.js.map": "/night_rises/static/js/787.855d930d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb42e6e0.css",
+    "static/js/main.1ede18fd.js"
+  ]
+}
